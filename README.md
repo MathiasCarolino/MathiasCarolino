@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou Mathias Carolino
 
-<!--
-**MathiasCarolino/MathiasCarolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação (5º período)  
+💻 Focado em desenvolvimento backend e web  
+🟣 Interesse em tecnologia, lógica e construção de projetos  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- Java
+- JavaScript
+- Node.js
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente
+- Aprofundando em Java e estrutura de dados  
+- Estudando desenvolvimento web com JavaScript  
+- Construindo projetos práticos  
+
+## 📫 Contato
+- Email: mathiasdev2010@gmail.com
